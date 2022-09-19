@@ -2,10 +2,10 @@ This is the first text in git
 
 This the fastforward merging 
 
-
+<<<<<<< HEAD
 This is 3-way merging
 
 trying to do 3-way merge
-
+=======
 This is 3-way merging scenario in merging concept of git
-
+>>>>>>> new_branch
