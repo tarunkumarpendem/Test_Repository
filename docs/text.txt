@@ -1,3 +1,5 @@
 This is the first text in git 
 
 This the fastforward merging 
+
+This is 3-way merging
